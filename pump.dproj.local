@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/04/28 14:02:44.000.469,=C:\Users\Electrical\Documents\RAD Studio\Projects\Unit13.pas</Transaction>
+    <Transaction>2015/05/03 11:46:47.000.898,=C:\Users\Electrical\Documents\RAD Studio\Projects\Unit13.pas</Transaction>
+    <Transaction>2015/05/03 11:48:11.000.150,D:\ALI\pump1.pas=C:\Users\Electrical\Documents\RAD Studio\Projects\Unit13.pas</Transaction>
+    <Transaction>2015/05/03 11:48:11.000.150,D:\ALI\pump1.dfm=C:\Users\Electrical\Documents\RAD Studio\Projects\Unit13.dfm</Transaction>
+    <Transaction>2015/05/03 11:48:19.000.877,D:\ALI\pump.dproj=C:\Users\Electrical\Documents\RAD Studio\Projects\Project9.dproj</Transaction>
+    <Transaction>2015/05/03 12:30:56.000.419,=D:\ALI\Unit1.pas</Transaction>
+    <Transaction>2015/05/03 13:01:51.000.694,D:\ALI\pump2.dfm=D:\ALI\Unit1.dfm</Transaction>
+    <Transaction>2015/05/03 13:01:51.000.694,D:\ALI\pump2.pas=D:\ALI\Unit1.pas</Transaction>
+    <Transaction>2015/05/03 13:08:47.000.462,=D:\ALI\Unit2.pas</Transaction>
+    <Transaction>2015/05/03 13:08:58.000.914,D:\ALI\menu.dfm=D:\ALI\Unit2.dfm</Transaction>
+    <Transaction>2015/05/03 13:08:58.000.914,D:\ALI\menu.pas=D:\ALI\Unit2.pas</Transaction>
+    <Transaction>2015/05/17 10:26:18.000.159,=D:\ALI\Unit1.pas</Transaction>
+    <Transaction>2015/05/17 10:44:13.000.681,D:\ALI\pump1.pas=</Transaction>
+    <Transaction>2015/05/17 10:44:23.000.884,D:\ALI\pump2.pas=</Transaction>
+    <Transaction>2015/05/17 10:51:01.000.707,D:\ALI\menu.pas=</Transaction>
+    <Transaction>2015/05/17 10:51:05.000.644,=D:\ALI\Unit2.pas</Transaction>
+    <Transaction>2015/05/17 13:36:33.000.831,=D:\ALI\Unit3.pas</Transaction>
+    <Transaction>2015/05/19 14:28:06.000.219,=D:\ALI\Unit3.pas</Transaction>
+    <Transaction>2015/05/19 14:33:42.000.745,=D:\ALI\Unit4.pas</Transaction>
+    <Transaction>2015/05/19 15:52:53.000.231,=D:\ALI\Unit5.pas</Transaction>
+    <Transaction>2015/05/20 15:52:52.000.653,=D:\ALI\Unit6.pas</Transaction>
+    <Transaction>2016/02/21 13:40:23.000.300,=D:\ALI\Unit7.pas</Transaction>
+    <Transaction>2016/02/21 13:40:33.000.104,=D:\ALI\Unit7.pas</Transaction>
+    <Transaction>2016/02/21 15:38:43.000.114,=D:\ALI\Unit8.pas</Transaction>
+    <Transaction>2016/02/21 15:40:42.000.569,D:\ALI\Unit7.pas=</Transaction>
+    <Transaction>2016/02/21 15:52:00.000.390,=D:\ALI\Unit8.pas</Transaction>
+    <Transaction>2016/02/22 17:41:19.000.881,=D:\ALI\Unit9.pas</Transaction>
+    <Transaction>2016/02/22 17:45:54.000.509,D:\ALI\Setting.dfm=D:\ALI\Unit9.dfm</Transaction>
+    <Transaction>2016/02/22 17:45:54.000.509,D:\ALI\Setting.pas=D:\ALI\Unit9.pas</Transaction>
+    <Transaction>2016/02/28 11:52:00.000.478,=D:\ALI\Unit10.pas</Transaction>
+    <Transaction>2016/02/28 11:55:30.000.528,=D:\ALI\Unit10.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit4.pas"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit8.pas"/>
+    <File Path="Unit8.dfm"/>
+    <File Path="Setting.pas"/>
+    <File Path="Setting.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
